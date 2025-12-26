@@ -230,7 +230,10 @@ export default function Findings() {
           </div>
         </div>
         <div className={styles.copyright}>
-          AI安全 © {new Date().getFullYear()} 保留所有权利
+          上海幻谱信息科技有限公司 © {new Date().getFullYear()} 保留所有权利
+        </div>
+        <div className={styles.icp}>
+          沪ICP备2025155378号-1
         </div>
       </footer>
     </div>
